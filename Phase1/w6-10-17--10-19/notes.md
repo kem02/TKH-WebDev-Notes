@@ -10,7 +10,9 @@ ___
 #### 🗒️Notes from class:
 
 #### 📚Resources:
+https://www.programiz.com/javascript/object
 
+https://www.freecodecamp.org/news/how-to-iterate-over-objects-in-javascript/
 
 #### 💭Daily Reflection:
 
@@ -36,7 +38,9 @@ ___
 #### 🗒️Notes from class:
 
 #### 📚Resources:
+https://javascript.info/class 
 
+https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript
 
 #### 💭Daily Reflection:
 
